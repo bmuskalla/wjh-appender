@@ -12,3 +12,5 @@
 hs_err_pid*
 /.gradle/
 /bin/
+/build/
+/.apt_generated/
